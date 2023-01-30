@@ -1,0 +1,2 @@
+# WordWriteTest
+The sentence speed test is a tool used to measure how quickly someone can read and understand a sentence. It involves the participant reading a sentence aloud and then responding to a question about the content of the sentence. The speed of their response is then recorded and compared to other participants. The test is often used in educational settings to assess reading comprehension levels and help identify areas for improvement.
